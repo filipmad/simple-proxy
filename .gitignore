@@ -1,0 +1,7 @@
+*.o
+htproxy
+.vscode
+all.log
+response.*
+seq.txt
+output

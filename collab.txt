@@ -1,0 +1,57 @@
+COMP30023 Project 2: Filip Madyarov & Jarin Lewis 2025
+Collab File
+
+TASK ALLOCATION OVERVIEW:
+Task 1 - Filip & Jarin
+Task 2 - Filip & Jarin
+Task 3 - Filip
+Task 4 - Jarin
+
+*** TASK ALLOCATION SIGNED BY FILIP MADYAROV & JARIN LEWIS 26/06/2025 ***
+
+DOCUMENTATION OVERVIEW:
+- Notion used for Task Management
+- GitHub used for collaboration
+
+MEETINGS MINUTES:
+- Meetups 2-3 a week online and in person
+
+TASKS ALLOCATED ON NOTION:
+# Write a fn that caches at specified index
+
+[Change the magic numbers in the http request](https://www.notion.so/Change-the-magic-numbers-in-the-http-request-1f2adb1dd8aa8032bd6eca98cbe4f255?pvs=21)
+
+[Write a function that returns if the cache should store this request/response for T4](https://www.notion.so/Write-a-function-that-returns-if-the-cache-should-store-this-request-response-for-T4-1fcadb1dd8aa8038971ce73b92760f24?pvs=21)
+
+[Print Response when you don’t cache](https://www.notion.so/Print-Response-when-you-don-t-cache-1fcadb1dd8aa80dca8a1e84d42bb3957?pvs=21)
+
+[Make a check for Cache Control Header contents to not cache certain responses](https://www.notion.so/Make-a-check-for-Cache-Control-Header-contents-to-not-cache-certain-responses-1fcadb1dd8aa8049a673fc6e79b25653?pvs=21)
+
+[Record Cache Control Header](https://www.notion.so/Record-Cache-Control-Header-1fcadb1dd8aa8065a3ecca7aec78fbde?pvs=21)
+
+[Implement valid caching](https://www.notion.so/Implement-valid-caching-1fcadb1dd8aa80bd9b5cca94175e3ad4?pvs=21)
+
+[Implement a global start time variable, implement time_cached functionality](https://www.notion.so/Implement-a-global-start-time-variable-implement-time_cached-functionality-1fcadb1dd8aa801b890dd367779f8104?pvs=21)
+
+[Refactor origin response handling to read in entire response before sending](https://www.notion.so/Refactor-origin-response-handling-to-read-in-entire-response-before-sending-1f9adb1dd8aa80078b7cf015ac3b0640?pvs=21)
+
+[Change content length header retrieval method](https://www.notion.so/Change-content-length-header-retrieval-method-1f7adb1dd8aa80deb931ccfea2047e13?pvs=21)
+
+[Parse host name and path from http request](https://www.notion.so/Parse-host-name-and-path-from-http-request-1f4adb1dd8aa80c2a62fd27200d37138?pvs=21)
+
+[Send the request to origin server](https://www.notion.so/Send-the-request-to-origin-server-1f4adb1dd8aa8070a3d7e982fce4899d?pvs=21)
+
+[Integrate CL input with Filip’s dev](https://www.notion.so/Integrate-CL-input-with-Filip-s-dev-1f2adb1dd8aa800bb7e8c67367a07575?pvs=21)
+
+[Integrate Makefile with Filips branch](https://www.notion.so/Integrate-Makefile-with-Filips-branch-1f2adb1dd8aa80da9951f57cdbeeffd9?pvs=21)
+
+[Figure the input to the file](https://www.notion.so/Figure-the-input-to-the-file-1ebadb1dd8aa80149408ed4b384b2be6?pvs=21)
+
+[Create basis for the code](https://www.notion.so/Create-basis-for-the-code-1ebadb1dd8aa802bb039e0164372aeda?pvs=21)
+
+[Revise sockets in C](https://www.notion.so/Revise-sockets-in-C-1ebadb1dd8aa80418490c0d82700726f?pvs=21)
+
+[Go through Beej’s notes](https://www.notion.so/Go-through-Beej-s-notes-1ecadb1dd8aa8033b35fd405d9ccbdcd?pvs=21)
+
+
+*** DOCUMENT SIGNED BY FILIP MADYAROV & JARIN LEWIS 26/06/2025 ***
