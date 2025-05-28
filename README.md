@@ -1,13 +1,13 @@
-# UniMelb Proxy – COMP30023 Project
+# Simple Proxy – COMP30023 Project
 
 A simple HTTP proxy server built as part of **COMP30023: Computer Systems** at the **University of Melbourne** in **2025**.  
-Created by **[Your Name]** and **J. Lewis**.
+Created by **F. Madyarov** and **J. Lewis**.
 
 ---
 
 ## 🧠 About
 
-This project implements a basic proxy server capable of handling HTTP requests and forwarding them to their intended destinations. The server parses requests, caches responses, and demonstrates a practical understanding of networking, sockets, and system-level programming in C.
+This project implements a basic proxy server capable of handling HTTP requests and forwarding them to their intended destinations. The server parses requests, caches responses, and demonstrates a practical understanding of networking, sockets, and system-level programming in C. The proxy implements simple and valid caching with a cache size of 10, and also handles stale cache entries if requested.
 
 ---
 
@@ -36,9 +36,18 @@ This project implements a basic proxy server capable of handling HTTP requests a
    git clone https://github.com/yourusername/unimelb-proxy.git
    cd unimelb-proxy
 
+2. **Compile the program
+   ```bash
+   make
 
+3. ** Start the proxy
+   ```bash
+   ./htproxy -p <PORT NUMBER> [optional] -c  
 
 ## 📚 Coursework Context
 This project was completed as part of the University of Melbourne's COMP30023: Computer Systems subject in Semester 1, 2025.
-It was developed collaboratively by [Your Name] and J. Lewis, showcasing concepts such as socket programming, system calls, and concurrency in a real-world scenario.
+It was developed collaboratively by F. Madyarov and J. Lewis, showcasing concepts such as socket programming, system calls, and concurrency in a real-world scenario.
+
+## ⚖️ License
+This code is intended for educational purposes and is subject to the University of Melbourne’s academic integrity policies. Do not plagiarize.
 
